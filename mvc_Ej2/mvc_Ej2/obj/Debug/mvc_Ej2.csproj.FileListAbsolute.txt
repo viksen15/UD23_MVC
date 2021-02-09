@@ -1,0 +1,12 @@
+C:\Users\viiksen\Documents\curso NET\UD23_MVC\mvc_Ej2\mvc_Ej2\bin\Debug\mvc_Ej2.exe.config
+C:\Users\viiksen\Documents\curso NET\UD23_MVC\mvc_Ej2\mvc_Ej2\bin\Debug\mvc_Ej2.exe
+C:\Users\viiksen\Documents\curso NET\UD23_MVC\mvc_Ej2\mvc_Ej2\bin\Debug\mvc_Ej2.pdb
+C:\Users\viiksen\Documents\curso NET\UD23_MVC\mvc_Ej2\mvc_Ej2\obj\Debug\mvc_Ej2.csprojAssemblyReference.cache
+C:\Users\viiksen\Documents\curso NET\UD23_MVC\mvc_Ej2\mvc_Ej2\obj\Debug\mvc_Ej2.Cliente.resources
+C:\Users\viiksen\Documents\curso NET\UD23_MVC\mvc_Ej2\mvc_Ej2\obj\Debug\mvc_Ej2.Elegir.resources
+C:\Users\viiksen\Documents\curso NET\UD23_MVC\mvc_Ej2\mvc_Ej2\obj\Debug\mvc_Ej2.Properties.Resources.resources
+C:\Users\viiksen\Documents\curso NET\UD23_MVC\mvc_Ej2\mvc_Ej2\obj\Debug\mvc_Ej2.Videos.resources
+C:\Users\viiksen\Documents\curso NET\UD23_MVC\mvc_Ej2\mvc_Ej2\obj\Debug\mvc_Ej2.csproj.GenerateResource.cache
+C:\Users\viiksen\Documents\curso NET\UD23_MVC\mvc_Ej2\mvc_Ej2\obj\Debug\mvc_Ej2.csproj.CoreCompileInputs.cache
+C:\Users\viiksen\Documents\curso NET\UD23_MVC\mvc_Ej2\mvc_Ej2\obj\Debug\mvc_Ej2.exe
+C:\Users\viiksen\Documents\curso NET\UD23_MVC\mvc_Ej2\mvc_Ej2\obj\Debug\mvc_Ej2.pdb
