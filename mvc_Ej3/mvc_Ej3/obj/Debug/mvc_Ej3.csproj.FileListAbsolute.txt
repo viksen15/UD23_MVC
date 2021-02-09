@@ -1,0 +1,13 @@
+C:\Users\viiksen\Documents\curso NET\UD23_MVC\mvc_Ej3\mvc_Ej3\obj\Debug\mvc_Ej3.csprojAssemblyReference.cache
+C:\Users\viiksen\Documents\curso NET\UD23_MVC\mvc_Ej3\mvc_Ej3\obj\Debug\mvc_Ej3.Elegir.resources
+C:\Users\viiksen\Documents\curso NET\UD23_MVC\mvc_Ej3\mvc_Ej3\obj\Debug\mvc_Ej3.Properties.Resources.resources
+C:\Users\viiksen\Documents\curso NET\UD23_MVC\mvc_Ej3\mvc_Ej3\obj\Debug\mvc_Ej3.Cientificos.resources
+C:\Users\viiksen\Documents\curso NET\UD23_MVC\mvc_Ej3\mvc_Ej3\obj\Debug\mvc_Ej3.csproj.GenerateResource.cache
+C:\Users\viiksen\Documents\curso NET\UD23_MVC\mvc_Ej3\mvc_Ej3\obj\Debug\mvc_Ej3.csproj.CoreCompileInputs.cache
+C:\Users\viiksen\Documents\curso NET\UD23_MVC\mvc_Ej3\mvc_Ej3\bin\Debug\mvc_Ej3.exe.config
+C:\Users\viiksen\Documents\curso NET\UD23_MVC\mvc_Ej3\mvc_Ej3\bin\Debug\mvc_Ej3.exe
+C:\Users\viiksen\Documents\curso NET\UD23_MVC\mvc_Ej3\mvc_Ej3\bin\Debug\mvc_Ej3.pdb
+C:\Users\viiksen\Documents\curso NET\UD23_MVC\mvc_Ej3\mvc_Ej3\obj\Debug\mvc_Ej3.exe
+C:\Users\viiksen\Documents\curso NET\UD23_MVC\mvc_Ej3\mvc_Ej3\obj\Debug\mvc_Ej3.pdb
+C:\Users\viiksen\Documents\curso NET\UD23_MVC\mvc_Ej3\mvc_Ej3\obj\Debug\mvc_Ej3.Proyectos.resources
+C:\Users\viiksen\Documents\curso NET\UD23_MVC\mvc_Ej3\mvc_Ej3\obj\Debug\mvc_Ej3.Asignado_A.resources
